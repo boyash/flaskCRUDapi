@@ -1,1 +1,1 @@
-web: gunicorn mongo:app
+web:gunicorn mongo:app
