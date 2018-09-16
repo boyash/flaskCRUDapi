@@ -16,6 +16,5 @@ pip freeze requirements.txt
 
 USAGE
 -----
-from flask import Flask    
-from flask import jsonify  
-from flask import request  
+[flask]
+
