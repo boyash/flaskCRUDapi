@@ -14,7 +14,7 @@ pip install pymongo
 pip freeze requirements.txt   
 
 
-USAGE
+
 -----
-[flask]
+
 
