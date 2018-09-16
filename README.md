@@ -9,9 +9,9 @@ REQUIREMENTS
 
 INSTALLING
 -----
-pip install flask
-pip install pymongo
-pip freeze requirements.txt 
+pip install flask  
+pip install pymongo  
+pip freeze requirements.txt   
 
 
 USAGE
