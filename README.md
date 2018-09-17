@@ -13,8 +13,7 @@ pip install flask
 pip install pymongo  
 pip freeze requirements.txt   
 
-
-
+USAGE
 -----
-
+![alt text](assets/postupdate.png "Posts given data")
 
