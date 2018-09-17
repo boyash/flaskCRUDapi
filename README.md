@@ -16,4 +16,5 @@ pip freeze requirements.txt
 USAGE
 -----
 ![alt text](assets/postupdate.png "Posts given data")
+![alt text](assets/deletedata.png "data deleted from the list")
 
